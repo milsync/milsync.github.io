@@ -1,0 +1,13 @@
+body {
+    background-color: olivedrab;
+}
+
+button {
+    cursor: pointer;
+    padding: 10px 20px;
+    font-size: 24px;
+}
+
+.spacer-10px {
+    padding: 10px 10px;
+}
